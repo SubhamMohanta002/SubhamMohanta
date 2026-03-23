@@ -16,7 +16,7 @@
 
 ## 📌 Projects
 
-### 🔹 Zoom Clone (Online Meeting App)
+### 🔹 Zoom Clone (Online Meeting Web)
 
 A web-based video conferencing application similar to Zoom. Built using MERN stack technologies with real-time communication features.
 
