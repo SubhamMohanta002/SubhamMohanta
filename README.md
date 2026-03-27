@@ -12,7 +12,7 @@
 * **Backend:** Node.js, Express.js
 * **Java Development:** Java, OOPs, Collections Framework, Exception Handling, Multithreading, JDBC
 * **Database:** MongoDB, MySQL
-* **Tools:** Git, GitHub, VS Code
+* **Tools:** Git, GitHub, VS Code.
 
 ## 📌 Projects
 
